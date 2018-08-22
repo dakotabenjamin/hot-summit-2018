@@ -1,2 +1,12 @@
 domain: ''
 baseurl: ''
+
+collections:
+  speaker-list:
+    output: true
+  schedule-list:
+    output: true
+  events:
+    ouput: true
+  discussions:
+    output: true

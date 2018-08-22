@@ -747,6 +747,15 @@ thead th:nth-child(2n){
   border-bottom: 1px dashed #bbb;
 }
 
+.schedule-nav {
+  padding: 3px 10px 4px;
+}
+
+.schedule-table-item {
+  display: none;
+}
+
+
 /** Spakers
 ===================================*/
 
